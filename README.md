@@ -1,3 +1,3 @@
 # tindog
 
-A simple frontend page for Tinder for Dogs :)
+A simple frontend page of Tinder for Dogs :)
